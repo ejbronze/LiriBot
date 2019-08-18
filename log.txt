@@ -342,3 +342,15 @@ Venue: John Paul Jones Arena
 Location: Charlottesville United States
 Date: 07/31/2019
 >
+==================================================
+Result found for: mean (movie-this)
+==================================================
+Title: Mean Girls
+Year: 2004
+IMDB Rating: 7.0
+Rotten Tomatoes Rating: 84%
+Country: USA, Canada
+Language (s): English, German, Vietnamese, Swahili
+Plot: Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.
+Actors: Lindsay Lohan, Rachel McAdams, Tina Fey, Tim Meadows
+>
